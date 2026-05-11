@@ -1,0 +1,6 @@
+1.Zostanie stworzony pragraf.
+2.Ma 2 atrybuty sa nimi className i id.
+3.Witaj w świecie React!
+4.Kontenera root
+5.react zakorzeni tu aplikacje
+6.class jest używane w html a className w javascript
