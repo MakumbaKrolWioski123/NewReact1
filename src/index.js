@@ -8,7 +8,6 @@ import Zadanie3 from './components/Header';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
     <Zadanie3 />
   </React.StrictMode>
 );
