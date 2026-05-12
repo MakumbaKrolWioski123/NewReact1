@@ -1,7 +1,7 @@
 import React, { createElement, useState } from "react";
  
-const headersTable = ["header1", "header2", "header3"]
-const paragraph = ["1", "2", "3"]
+const headersTable = ["Naglowek1", "Naglowek2", "Naglowek3"]
+const paragraph = ["Paragraf1", "Paragraf2", "Paragraf3"]
  
 const Zadanie3 = () => {
     const cards = headersTable.map((className, index) => {
